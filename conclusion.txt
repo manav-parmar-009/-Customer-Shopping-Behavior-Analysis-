@@ -1,0 +1,40 @@
+Project Analysis
+
+I analysed 10000 records with 20 columns related to customer shopping behaviour.
+
+First I checked the dataset and found no missing values or duplicate records. The average customer age is around 37 years and the average income is around 68.75K.
+
+I analysed customers based on loyalty tiers and found that Bronze has the highest number of customers. Platinum customers have the highest average previous spending.
+
+I also analysed traffic sources. Organic traffic brings the highest number of customers. Email has the highest average order value.
+
+In region wise analysis I found that the South region has the highest number of customers and purchases.
+
+I compared the Control group with Discount10 and FreeShip. The Discount10 group has the highest purchase rate.
+
+I also created graphs to understand customer distribution and weekly purchase trends.
+
+Key Insights
+
+- Bronze has the highest number of customers.
+- Platinum customers have the highest average previous spending.
+- Organic traffic brings the most customers.
+- Email has the highest average order value.
+- The South region has the highest number of customers and purchases.
+- Discount10 has the highest purchase rate at around 14.42%.
+- The Control group has a purchase rate of around 12.76%.
+- The FreeShip group has a purchase rate of around 13.31%.
+- Customer satisfaction is almost similar across all loyalty tiers.
+- Customer purchases change across different weeks.
+
+Conclusion
+
+From this project I understood how to analyse customer shopping behaviour using Python.
+
+I used Pandas for data cleaning and analysis and Matplotlib for creating graphs.
+
+The analysis shows that customer behaviour changes based on loyalty tier and traffic source and experiment group.
+
+Discount10 performed better in purchase rate compared to the other two groups in this dataset.
+
+Overall this project helped me improve my practical knowledge of data cleaning and exploratory data analysis and data visualization.
